@@ -59,7 +59,7 @@ do
 		int flag,char_freq;//char_freq is the freq of different characters
 		clrscr();
 		//akhil printf("\nEnter the String\n");
-	printf("\nEnter no of strings : "); //akhil
+	printf("\nEnter no of symbols : "); //akhil
 		scanf("%d",&noOfStr);
 		for(int i=0;i<noOfStr;i++){
 		printf("enter frequency for symbol %s : ",alpha[i]);
